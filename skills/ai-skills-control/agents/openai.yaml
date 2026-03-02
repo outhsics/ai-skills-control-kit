@@ -1,0 +1,4 @@
+version: 1
+display_name: AI Skills Control
+short_description: Sync and manage local AI agent skills with CLI + dashboard.
+default_prompt: Sync my local skills across claude-code codex gemini-cli cursor and antigravity, then refresh the dashboard.
