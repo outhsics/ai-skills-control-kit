@@ -2,6 +2,16 @@
 
 [English](#english) | [中文](#中文)
 
+## Recruiter Snapshot
+
+- Status: `active`
+- Positioning: DevOps-style operations toolkit for AI coding agents
+- Core Value: One command to sync, audit, and visualize multi-agent skill ecosystems
+- Target Agents: Claude Code, Codex, Gemini CLI, Cursor, Antigravity
+- Stack: Bash, Node.js, `vercel-labs/skills`, local dashboard automation
+- Proof of Engineering: deterministic scripts, migration workflow, local-only control API
+- Last Reviewed: `2026-03-02`
+
 ---
 
 ## English
